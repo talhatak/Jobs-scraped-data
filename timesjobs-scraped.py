@@ -5,7 +5,7 @@ import pandas as pd
 import time 
 
 url = input("Enter url: ")
-filter_skills = input('Enter the skill you want to filter out: ')   #skill you want to filter out
+filter_skills = input('Enter the skill you want to filter out, else press Enter: ')   #skill you want to filter out
 
 def find_jobs():
     response = requests.get(url)
