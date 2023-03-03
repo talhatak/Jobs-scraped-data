@@ -1,6 +1,6 @@
 # Jobs-scraped-data
 
-
+Scraper for website "timesjobs".
 This is a python program to scrape job posts for the following information:
 1. Company name,
 2. Experience Required,
